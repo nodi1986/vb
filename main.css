@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}
+.header{
+    background: rgb(0, 0, 0);
+}
+.h2{
+color: rgb(255, 253, 253);
+font-family: Inter;
+font-size: 28px;
+font-weight: 600;
+line-height: 34px;
+padding-top: 36px;
+}
+.ul{
+    display: flex;
+gap: 40px;
+padding-top: 44px;
+padding-left: 100px;
+padding-bottom: 19px;
+}
+.header__link{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+list-style: none;
+text-decoration: none;
+
+}
+.navigation{
+    display: flex;
+}
+.input{
+color: rgb(102, 102, 102);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+padding: 14px 14px;
+border: none;
+outline: none;
+
+
+background-image: url("./images/search.png");
+background-repeat: no-repeat;
+background-position: right;
+}
+.form{
+    
+     padding-top: 30px;
+     padding-left: 449px;
+    
+    
+}
+  .section{
+    background-image: url("./images/slider2\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: "";
+    width: 1280px;
+    height: 300px;
+  }
+  .main{
+    background: rgb(0, 0, 0);
+  }
+  .h1{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+width: 277px;
+padding-top: 30px;
+  }
+  .btn{
+background: rgb(118, 185, 0);
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+border: none;
+padding-top: 18px;
+padding-left: 20px;
+padding-bottom: 18px;
+padding-right: 20px;
+margin-top: 88px;
+  }
+  .cls{
+    background-color: gainsboro;
+  }
+  .as{
+    box-shadow: 0px 17px 27px -4px rgba(0, 0, 0, 0.25);
+background: rgb(255, 255, 255);
+width: 290px;
+  }
+  .h3{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+width: 178px;
+text-align: center;
+margin-left: 56px;
+padding-top: 20px;
+  }
+  .lolpp{
+    display: flex;
+    padding-top: 37px;
+    padding-left: 110px;
+    gap: 13px;
+    padding-bottom: 20px;
+  }
+  .img{
+    width: 10px;
+    height: 10px;
+    margin-top: 6px;
+  }
+  .wrapp{
+    display: flex;
+    gap: 40px;
+  }
+  .vop{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+padding-left: 325px;
+padding-top: 41px;
+padding-bottom: 40px;
+  }
+  .zx{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+padding-left: 90px;
+padding-top: 40px;
+padding-bottom: 40px;
+  }
+  .wrapper{
+   display: flex;
+    gap: 40px; 
+  }
+  .ass{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+padding-left: 503px;
+padding-top: 40px;
+padding-bottom: 40px;
+  }
+  .kotta{
+    display: flex;
+    gap: 40px; 
+  }
+  .nvd{
+ color: rgb(103, 185, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+width: 416px;
+padding-left: 40px;
+padding-top: 21px;
+}
+.kl{
+    background-color: white;
+    display: flex;
+}
+.clsa{
+    background-color: gainsboro;
+    padding-top: 68px;
+    
+}
+.ec{
+    padding-top: 28px;
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+width: 399px;
+padding-left: 40px;
+}
+.btn__wer{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+background: rgb(118, 185, 0);
+border: none;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 32px;
+padding-right: 32px;
+margin-left: 40px;
+margin-top: 58px;
+}
+.footer{
+    background-color: gainsboro;
+}
+.div{
+    background-color: white;
+    display: flex;
+    gap: 951px;
+    padding-top:100px ;
+    padding-bottom:80px ;
+}
+.qa{
+    color: rgb(102, 102, 102);
+font-family: Inter;
+font-size: 18px;
+font-weight: 800;
+line-height: 22px;
+
+}
